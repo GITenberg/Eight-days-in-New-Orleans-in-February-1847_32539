@@ -1,0 +1,28 @@
+_repo: Eight-days-in-New-Orleans-in-February-1847_32539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickett, Albert James
+    alias: Pickett, A. J. (Albert James)
+    birthdate: 1810
+    deathdate: 1858
+    gutenberg_agent_id: '35903'
+    url: http://www.gutenberg.org/2009/agents/35903
+description: ''
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans (La.) -- Description and travel'
+- !lcc 'F350.5'
+- !lcsh 'Louisiana -- Social life and customs'
+title: Eight days in New-Orleans in February, 1847
+url: http://www.gutenberg.org/ebooks/32539
